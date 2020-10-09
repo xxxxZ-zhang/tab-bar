@@ -7,7 +7,7 @@
 </template>
 <script>
 import router from './router';
-import MainTabBar from './components/MainTabBar'
+import MainTabBar from './components/MainTabBar';
 export default {
   components: {
     MainTabBar
