@@ -17,7 +17,7 @@
 ```
 ### 1.2 选项
 * path: 路由
-* activeColor: 当前活跃tab-bat-item字体颜色，默认红色
+* activeColor: 当前活跃tab-bar-item字体颜色，默认红色
 * src: 图片路径
 
 ## 2. app.vue 引入
